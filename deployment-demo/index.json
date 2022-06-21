@@ -1,13 +1,7 @@
 {
   "title": "Dynatrace Kubernetes Deployment Demo",
   "description": "Uses a Kubernetes cluster with a running application.",
-  
-  "details": {
-    "intro": {
-      "text": "intro.md",
-      "background": "deploy-sockshop.sh"
-    }
-  },
+
   "backend": {
     "imageid": "kubernetes-cluster:1.21"
   }
