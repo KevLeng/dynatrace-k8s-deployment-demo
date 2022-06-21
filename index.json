@@ -1,6 +1,6 @@
 {
   "title": "Dynatrace Kubernetes Deployment Demo",
-  "description": "Uses a Kubernetes cluster with a running application to  and performs user input verification in all steps",
+  "description": "Uses a Kubernetes cluster with a running application.",
   
   "backend": {
     "imageid": "kubernetes-cluster:1.21"
