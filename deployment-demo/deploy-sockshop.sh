@@ -1,4 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/KevLeng/sockshop
-cd sockshop
+touch /tmp/finished
+
+#git clone https://github.com/KevLeng/sockshop
+#cd sockshop
