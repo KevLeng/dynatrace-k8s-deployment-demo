@@ -5,7 +5,7 @@
   "details": {
     "intro": {
       "text": "intro.md",
-      "background": "../utils/clone_sockshop.sh"
+      "background": "deploy-sockshop.sh"
     }
   },
   "backend": {
