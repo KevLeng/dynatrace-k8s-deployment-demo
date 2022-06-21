@@ -1,8 +1,0 @@
-{
-  "title": "Dynatrace Kubernetes Deployment Demo",
-  "description": "Uses a Kubernetes cluster with a running application.",
-  
-  "backend": {
-    "imageid": "kubernetes-cluster:1.21"
-  }
-}
